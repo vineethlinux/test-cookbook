@@ -1,5 +1,6 @@
 require "chefspec"
 require "chefspec/berkshelf"
+require "yarjuf"
 
 RSpec.configure do |config|
   # Specify the path for Chef Solo to find cookbooks
