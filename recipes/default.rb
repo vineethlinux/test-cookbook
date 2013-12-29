@@ -17,4 +17,6 @@
 # limitations under the License.
 #
 
-# Install/configure something here
+# provoke a foodcritic warning
+node[:fqdn] == node['fqdn']
+
