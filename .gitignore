@@ -1,5 +1,4 @@
 # Bundler
-/Gemfile.lock
 /bin/
 /.bundle/
 /bundle/
