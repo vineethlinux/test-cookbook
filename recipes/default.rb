@@ -18,5 +18,5 @@
 #
 
 # provoke a foodcritic warning
-node[:fqdn] == node['fqdn']
+#node[:fqdn] == node['fqdn']
 
